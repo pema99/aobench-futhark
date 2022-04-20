@@ -2,7 +2,7 @@
 -- Adapted from https://github.com/ispc/ispc/blob/main/examples/cpu/aobench/ao.ispc
 --
 -- ==
--- input { 512i64 512i64 2i64 }
+-- input { 512i64 512i64 8i64 16i64 }
 
 import "lib/github.com/diku-dk/cpprandom/random"
 import "lib/github.com/athas/vector/vspace"
